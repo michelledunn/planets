@@ -1,3 +1,5 @@
 *.dat
 results/
+results/a.out
+!a.dat
 
